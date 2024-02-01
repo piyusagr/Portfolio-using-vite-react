@@ -13,7 +13,7 @@ const Project = () => {
                     <div className="card-overlay">
                         <span className="text-center bg-dark text-warning">Keep Notes</span>
                     </div>
-                    <img src="src/Project/keepnotes.png" className="card-img-top" alt="Keep Notes" />
+                    <img src="public/keepnotes.png" className="card-img-top" alt="Keep Notes" />
                     <div className="project-name-overlay flex-column">
                         <div> <h4 className="text-light pb-3">Keep Notes</h4></div>
                         <div>
@@ -27,7 +27,7 @@ const Project = () => {
                     <div className="card-overlay">
                         <span className="text-center bg-dark text-warning">Make my trip railway automate homepage</span>
                     </div>
-                    <img src="src/Project/makemytripauto.png" className="card-img-top " alt="Make my trip" style={{height:300}} />
+                    <img src="public/makemytripauto.png" className="card-img-top " alt="Make my trip" style={{height:300}} />
                     <div className="project-name-overlay flex-column">
                         <div><h4 className="text-light pb-3">Makemytrip Railway Home Automate</h4></div>
                         <div><h6 className="text-light">Tech Stack used: Python, Selenium</h6></div>
@@ -41,7 +41,7 @@ const Project = () => {
                     <div className="card-overlay">
                         <span className="text-center bg-dark text-warning">rockpaperscissor</span>
                     </div>
-                    <img src="src/Project/rockpaperscissor.png" className="card-img-top" alt="Rock Paper Scissor" />
+                    <img src="public/rockpaperscissor.png" className="card-img-top" alt="Rock Paper Scissor" />
                     <div className="project-name-overlay flex-column">
                         <div> <h4 className="text-light pb-3">Rock Paper Scissor Game</h4></div>
                         <div>
@@ -55,7 +55,7 @@ const Project = () => {
                     <div className="card-overlay">
                         <span className="text-center bg-dark text-warning">Box Shadow Generator</span>
                     </div>
-                    <img src="src/Project/shadowgen.png" className="card-img-top " alt="Make my trip"  />
+                    <img src="public/shadowgen.png" className="card-img-top " alt="Make my trip"  />
                     <div className="project-name-overlay flex-column">
                         <div><h4 className="text-light pb-3">Box Shadow Generator</h4></div>
                         <div><h6 className="text-light">Tech Stack used: CSS, ReactJS, Bootstrap</h6></div>
@@ -68,7 +68,7 @@ const Project = () => {
                     <div className="card-overlay">
                         <span className="text-center bg-dark text-warning">Programming Language Voting App</span>
                     </div>
-                    <img src="src/Project/votingapp.png" className="card-img-top" alt="voting application" style={{height: 300}}/>
+                    <img src="public/votingapp.png" className="card-img-top" alt="voting application" style={{height: 300}}/>
                     <div className="project-name-overlay flex-column">
                         <div> <h4 className="text-light pb-3">Programming language Voting</h4></div>
                         <div>
@@ -82,7 +82,7 @@ const Project = () => {
                     <div className="card-overlay">
                         <span className="text-center bg-dark text-warning">Whatsapp Message Automation</span>
                     </div>
-                    <img src="src/Project/whatsappmessageauto.png" className="card-img-top " alt="Automate message"  />
+                    <img src="public/whatsappmessageauto.png" className="card-img-top " alt="Automate message"  />
                     <div className="project-name-overlay flex-column">
                         <div><h4 className="text-light pb-3">Whatsapp Message Automation</h4></div>
                         <div><h6 className="text-light">Tech Stack used: Python, Tkinter</h6></div>

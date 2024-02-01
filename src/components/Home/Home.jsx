@@ -52,7 +52,7 @@ const Home = () => {
                 ) : (
                     <>
                         <video autoPlay loop muted playsInline>
-                            <source src="src/Project/homevideo.mp4" type="video/mp4" />
+                            <source src="public/homevideo.mp4" type="video/mp4" />
                             Your browser does not support the video tag.
                         </video>
                         <div className="d-flex flex-column overlay pb-5 ">
