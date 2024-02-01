@@ -1,0 +1,9 @@
+.m-5{
+    margin: 50% 20%;
+}
+@media (max-width: 760px) {
+    .px-1{
+        padding-left: 50%;
+        padding-right: 50%;
+    }
+}
