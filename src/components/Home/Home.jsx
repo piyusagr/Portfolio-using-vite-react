@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import './home.css';
 import OfflineContent from "../OfflineContent/OfflineContent";
-import homevideo from 'E:\\vitereacr\\portfolio\\public\\homevideo.mp4';
+import homevideo from '/public/homevideo.mp4';
 
 const Home = () => {
     const jobProfiles = [

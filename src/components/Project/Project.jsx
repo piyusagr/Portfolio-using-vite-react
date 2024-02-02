@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import './project.css';
-import keepnotes from 'E:\\vitereacr\\portfolio\\public\\keepnotes.png';
-import makemytrip from 'E:\\vitereacr\\portfolio\\public\\makemytripauto.png';
-import rockps from 'E:\\vitereacr\\portfolio\\public\\rockpaperscissor.png';
-import shadowgen from 'E:\\vitereacr\\portfolio\\public\\shadowgen.png';
-import votingapp from 'E:\\vitereacr\\portfolio\\public\\votingapp.png';
-import whatsa from 'E:\\vitereacr\\portfolio\\public\\whatsappmessageauto.png';
+import keepnotes from '/public/keepnotes.png';
+import makemytrip from '/public/makemytripauto.png';
+import rockps from '/public/rockpaperscissor.png';
+import shadowgen from '/public/shadowgen.png';
+import votingapp from '/public/votingapp.png';
+import whatsa from '/public/whatsappmessageauto.png';
 
 const Project = () => {
     return (
