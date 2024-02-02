@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import './home.css';
 import OfflineContent from "../OfflineContent/OfflineContent";
+import homevideo from 'E:\\vitereacr\\portfolio\\public\\homevideo.mp4';
 
 const Home = () => {
     const jobProfiles = [
@@ -52,7 +53,7 @@ const Home = () => {
                 ) : (
                     <>
                         <video autoPlay loop muted playsInline>
-                            <source src="public/homevideo.mp4" type="video/mp4" />
+                            <source src={homevideo} type="video/mp4" />
                             Your browser does not support the video tag.
                         </video>
                         <div className="d-flex flex-column overlay pb-5 ">
